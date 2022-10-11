@@ -54,6 +54,7 @@ Checking connectivity... done.
 
 * https://pyneng.github.io/docs/course-vm/
 
+Виртуалка установлена
 
 ## Задания
 
